@@ -1,7 +1,7 @@
 const int right = 9;
 const int left = 10;
-const int down = 15;
-const int up = 230;
+const int down = 210;
+const int up = 222;
 
 void setup() {
  pinMode(right, OUTPUT);
