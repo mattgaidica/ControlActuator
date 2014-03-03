@@ -1,0 +1,1 @@
+A simple program that uses serial commands to control two actuators.
